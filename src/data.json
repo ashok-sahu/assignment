@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "image":"https://www.freepngimg.com/thumb/shoes/27428-5-nike-shoes-transparent-background-thumb.png",
+        "text":"i am product",
+        "price":85.00
+    },
+    {
+        "id":2,
+        "image":"https://www.freepngimg.com/thumb/shopping%20bag/11-shopping-bag-png-image-thumb.png",
+        "text":"i am product",
+        "price":15.00
+    },
+    {
+        "id":3,
+        "image":"https://www.freepngimg.com/thumb/clock/6-wristwatch-png-image-thumb.png",
+        "text":"i am product",
+        "price":25.00
+    }
+]
